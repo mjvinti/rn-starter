@@ -13,6 +13,7 @@
   - Displaying Images
 - Counter Screen
 - Color Screen
+- Square Screen
   - State Management in React Components
 - List Screen
   - Working With FlatList Element
