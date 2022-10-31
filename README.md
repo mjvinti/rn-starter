@@ -14,6 +14,7 @@
 - Counter Screen
 - Color Screen
 - Square Screen
+- Text Screen
   - State Management in React Components
 - List Screen
   - Working With FlatList Element
